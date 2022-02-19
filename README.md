@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there!
 
 <!--
 **nillyr/nillyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+I am a cybersecurity auditor/pentester based in France 🇫🇷 🥖. 
+
+Enthusiastic coder mainly focused on C, Python and Swift.
+
+🚧 I'm currently working on a tool to automate as much as possible the security configuration audits. This tool will be Open Source as soon as possible ❤️.
+
+<!-- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nillyr&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
