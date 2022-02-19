@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a cybersecurity auditor/pentester based in France 🇫🇷 🥖. 
+I'm a cybersecurity auditor/pentester based in France 🇫🇷 🥖. 
 
 Enthusiastic coder mainly focused on C, Python and Swift.
 
