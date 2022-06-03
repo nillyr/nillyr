@@ -19,8 +19,6 @@ I'm a cybersecurity auditor/pentester based in France 🇫🇷 🥖.
 
 Enthusiastic coder mainly focused on C, Python and Swift.
 
-🚧 I'm currently working on a tool to automate as much as possible the security configuration audits. This tool will be **Open Source** ❤️.
-
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nillyr&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
